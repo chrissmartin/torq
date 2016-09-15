@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Oswald', sans-serif;
+	font-weight:300;
+	}
+.navbar{
+	background:#FFFFFF;
+	width:auto;
+}
+.navbar-brand{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	}
+.nav-button:hover{
+	background:#FFFFFF;
+}
+
+.hvr-float {
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.2s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+.hvr-float:hover,
+.hvr-float:focus,
+.hvr-float:active {
+  transform: translateY(-8px);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.thumbnail{
+	border-color:#FFFFFF;
+}
+.about{
+	background:#3A527A;
+	font-weight:100;
+	color:#FBFBFB;
+	width: auto;
+}
+.foot-text{
+	font-size:24px;
+	font-weight: 100;
+}
+.bold-heading {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+}
+.ui-content{
+	padding: 0px 50px 0px 50px;
+}
