@@ -2,10 +2,10 @@
 
 	//echo 'Connection to DB---------------------------';
 
-	$server="127.0.0.1";
-	$user="root";
-	$pass="";
-	$db="torq";
+	$server="localhost";
+	$user="kanvim3a_admin";
+	$pass="admin1234";
+	$db="kanvim3a_torq";
 	
 	$connection=new mysqli($server,$user,$pass,$db);
 	if ($connection->connect_error)

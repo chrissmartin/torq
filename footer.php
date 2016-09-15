@@ -16,6 +16,7 @@
         <address style=\"position:relative;top:20px;left:30px;\">
         <a style=\"color:white;\" href=\"about.php\">About us</a><br>
         <a style=\"color:white;\" href=\"disclaimer.php\">Disclaimer</a><br>
+<a style=\"color:white;\" href=\"https://fb.com/thetyko\">Follow us on facebook!</a><br>
         
       </address>
         <address>

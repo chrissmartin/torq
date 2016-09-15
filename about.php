@@ -44,7 +44,7 @@
 <h2 class="text-center" id="feature">This is Team Tyko!</h2>
 <hr>
   <div class="row text-center">
-  <a href="#" class="article">
+  <a href="https://fb.com/thechrissmartin" class="article">
     <div class="op1 col-sm-4 col-md-4 col-lg-4 col-xs-6 hvr-float">
       <div class="thumbnail" onclick="choose1('sedan');"> <img src="images/team/chriss.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
@@ -55,7 +55,7 @@
       
     </div>
     </a>
-    <a href="#" class="article">
+    <a href="https://fb.com/007bm5" class="article">
     <div class="op1 col-sm-4 col-md-4 col-lg-4 col-xs-6 hvr-float">
       <div class="thumbnail" onclick="choose1('compact');"> <img src="images/team/bobby.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="op1 caption">
@@ -66,7 +66,7 @@
       </div>
     </div>
     </a>
-    <a href="#" class="article">
+    <a href="https://fb.com/cristina.j9" class="article">
     <div class="op1 col-sm-4 col-md-4 col-lg-4 col-xs-6 hvr-float">
       <div class="thumbnail" onclick="choose1('suv');"> <img src="images/team/cristina.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
@@ -87,7 +87,7 @@
     </a>
   </div>
   <div class="row text-center hidden-xs">
-  <a href="#" class="article">
+  <a href="https://fb.com/jaisonthomasTBH" class="article">
     <div class="op1 col-xs-4 col-sm-4 col-md-4 col-lg-4 hvr-float">
       <div class="thumbnail" onclick="choose1('luxury');"> <img src="images/team/jaison.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
@@ -98,7 +98,7 @@
       </div>
     </div>
     </a>
-    <a href="#" class="article">
+    <a href="https://fb.com/eliceroy" class="article">
     <div class="op1 col-xs-4 col-sm-4 col-md-4 col-lg-4 hvr-float">
       <div class="thumbnail" onclick="choose1('sport');"> <img src="images/team/elice.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
@@ -109,7 +109,7 @@
       </div>
     </div>
     </a>
-    <a href="#" class="article">
+    <a href="https://fb.com/theamitjoseph" class="article">
     <div class="op1 col-xs-4 col-sm-4 col-md-4 col-lg-4 hvr-float">
       <div class="thumbnail" onclick="choose1('family');"> <img src="images/team/amit.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
