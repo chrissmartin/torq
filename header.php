@@ -9,9 +9,9 @@ echo "<nav class=\"navbar\">
     
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class=\"collapse navbar-collapse\">
-      <ul class=\"nav navbar-nav\">
+      <ul style=\"position:relative;float:right;\" class=\"nav navbar-nav\">
         <li class=\"active\"><a href=\"index.php\" class=\"nav-button\">Home<span class=\"sr-only\">(current)</span></a> </li>
-        <li><a href=\"about.php\">About Us</a> </li><li><a href=\"viewall.php\">View all vehicals</a> </li>
+        <li><a href=\"about.php\">About Us</a> </li><li><a href=\"viewall.php\">View all vehicles</a> </li>
       </ul>
       
     </div>
