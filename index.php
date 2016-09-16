@@ -64,7 +64,7 @@ $('show-hide').ready(function() {
       <div class="thumbnail" onclick="choose1('sedan');"> <img src="images/sedan-feature.png" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <h3>Sedan</h3>
-          <p>Perfect for Family and Luxury</p>
+          <p>For long drives</p>
         </div>
       </div>
       
