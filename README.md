@@ -7,10 +7,6 @@ Note:There may be some image resource missing but will be available in the torq.
 
 The live website is available at : http://kanviastore.com/torq/
 
-
-
-
-The Team
-Chriss Martin, Amit Joseph, Bobby Isac, Cristina Johns, Elice Roy
+The Team: Chriss Martin, Amit Joseph, Bobby Isac, Cristina Johns, Elice Roy
 
 
