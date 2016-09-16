@@ -11,13 +11,6 @@
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/style.css">
 <link href="css/hover.css" rel="stylesheet" media="all">
-<style>
-#thumb{
-	height:220px;
-	width:350px;
-}
-	
-</style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 
